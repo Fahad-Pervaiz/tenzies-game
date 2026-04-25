@@ -1,19 +1,51 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Tenzies Game 🎲
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple and fun **Tenzies game** built with **React** as part of my learning journey through the Scrimba React course.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+The goal of the game is to roll the dice until all dice show the same value. You can click on each die to hold its value between rolls.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Live Demo
 
-Happy Coding!
+[Add your live demo link here]
+
+## GitHub Repository
+
+[Add your GitHub repository link here]
+
+## Features
+
+- Roll random dice
+- Hold selected dice
+- Win detection when all dice match
+- New game option after winning
+- Confetti celebration effect
+- Accessible dice buttons with ARIA labels
+
+## What I Learned
+
+This project helped me practice important React concepts, including:
+
+- Components
+- Props
+- State
+- Event handling
+- Conditional rendering
+- `useEffect`
+- `useRef`
+- Accessibility basics
+
+## Tech Stack
+
+- React
+- JavaScript
+- CSS
+- Vite
+- nanoid
+- react-confetti / react-confetti-explosion
+
+## How to Run Locally
+
+Clone the project:
+
+```bash
+git clone [your-repository-link]
