@@ -1,10 +1,9 @@
 {
-  "name": "Scrim-s06j1hm",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~06wf",
+  "name": "tenzies-rolldice-game",
+  "description": "A fun Tenzies dice game built with React",
   "scripts": {
-    "start": "vite",
     "dev": "vite",
-    "build": "vite build",
+    "build": "node ./node_modules/vite/bin/vite.js build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -12,10 +11,10 @@
     "react": "18.3.1",
     "react-confetti": "6.1.0",
     "react-confetti-explosion": "^3.0.3",
-    "react-dom": "18.3.1",
-    "vite": "latest"
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "vite": "^6.0.0"
   }
 }
