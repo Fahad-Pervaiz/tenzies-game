@@ -8,7 +8,7 @@ A fun and interactive **Tenzies dice game** built with **React**. The goal is si
 
 ## 🎮 Live Demo
 
-[Play Tenzies Now](https://tenzies-rolldice-game.netlify.app)
+[Play Tenzies Now](https://tenzies-game-six-delta.vercel.app)
 
 ## ✨ Features
 
